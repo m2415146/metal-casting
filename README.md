@@ -49,6 +49,13 @@ Creality Space Pi Plus (filament dryer)
 
 ![Screenshot_178](https://github.com/user-attachments/assets/ec6e236d-d85e-4c6b-886a-f96773a06ca8)
 
+Unfortunately the main model of the tooth was not printed - in the morning I found noodles instead of it - the rest of the primitive models and the roots of the tooth itself turned out.
+
+## Problem solving: crutches
+
+since the main task is to practice metal casting, the deadline for the laboratory work itself came up and I no longer had time to print something again, I decided to take a ready-made model - a soldier of the Chinese tin army. This model is larger than the ones that should be suitable for my task, but its shape is suitable for casting metal.
+
+
 
 
 
