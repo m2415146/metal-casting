@@ -55,6 +55,118 @@ Unfortunately the main model of the tooth was not printed - in the morning I fou
 
 since the main task is to practice metal casting, the deadline for the laboratory work itself came up and I no longer had time to print something again, I decided to take a ready-made model - a soldier of the Chinese tin army. This model is larger than the ones that should be suitable for my task, but its shape is suitable for casting metal.
 
+![Screenshot_179](https://github.com/user-attachments/assets/6be4fa9b-ecee-41ec-9521-bac73b9a433f)
+
+![Screenshot_180](https://github.com/user-attachments/assets/16c6c9af-2632-469e-a5c1-173b6dd54baf)
+
+Its about 19+cm height
+
+other parts from wrong printing I decided to use it to create casting channels.
+
+![Screenshot_181](https://github.com/user-attachments/assets/e7eea435-c064-4323-879b-13f8c02199f7)
+
+in order to connect these parts to the model, I decided to use a lighter. Since PLA melts at low enough temperatures, it won't be difficult for me for a long time.
+
+![Screenshot_182](https://github.com/user-attachments/assets/e06eace6-7fe0-4b9a-bc2c-80ac5136bd23)
+
+Initially, I wanted to use a plastic bottle as a mold for casting plaster (1,5 l).
+
+![Screenshot_183](https://github.com/user-attachments/assets/7b6265b9-93d9-4033-b37c-957549d4b0e0)
+
+to correct the bottle, to make it easier to pour plaster into it, I used scissors.
+
+![Screenshot_184](https://github.com/user-attachments/assets/b71f3d75-e17f-4a93-8bf3-b9257ccdeba1)
+
+![Screenshot_185](https://github.com/user-attachments/assets/0bc84e32-c4e1-433b-9e65-09200d895db8)
+
+The initial fitting was fine with me and I decided to attach the metal casting parts to the model by preheating them with a lighter.
+
+
+
+https://github.com/user-attachments/assets/d006606d-1090-4e36-aad6-759ed189b5cb
+
+previously, I fitted the model to the bottle again and cut out the holes with scissors to accommodate the injection channels.
+
+![Screenshot_186](https://github.com/user-attachments/assets/c86a422a-3ad6-4556-a0f6-9a98d0ee4c92)
+
+In order not to ruin the model, I attached the first of the channels to the model pad.
+
+![Screenshot_187](https://github.com/user-attachments/assets/d4fd6e31-b613-4550-a8de-ec8ee2ea0b29)
+
+However, I soon realized that it was not worth using the front part of the model for this, since the rest of the injection molding channels would have to be placed on the chest and face of the figure, and I took it off.
+
+![Screenshot_188](https://github.com/user-attachments/assets/c0b1c9b0-1c8b-4322-abcd-af654e939d63)
+
+then I installed 2 injection channels on the back of the model and tried it on in the bottle again.
+
+![Screenshot_189](https://github.com/user-attachments/assets/e1b637f2-4c41-4786-9200-777b85cffef3)
+
+in order to increase the area of the injection channels when pouring plaster, I used ordinary adhesive tape.
+
+![Screenshot_190](https://github.com/user-attachments/assets/5287e2da-7254-4a99-b498-1efd16e99c1b)
+
+![Screenshot_191](https://github.com/user-attachments/assets/9ed9f7b2-78c9-4492-92fd-18e4d2cb9bf5)
+
+at this point, it became clear that the bottle was not very appropriate for this task, and I decided to look for another container. The class time was limited, so I had to choose from the materials at hand. So, I took an empty cardboard box from the filament
+
+![Screenshot_192](https://github.com/user-attachments/assets/63a02539-32bc-4ed9-b1c4-14a94c4994c5)
+
+there was another problem: it was necessary to fix the model in the box so that it would be stationary during the casting and during its curing. I thought I could solve this if I positioned the model slightly at an angle so that it would lock into the box without rotation or displacement (it later turned out that the idea was not the most successful).
+
+![Screenshot_193](https://github.com/user-attachments/assets/03957680-b2b9-4334-be98-745986469165)
+
+then I got ready to mix the plaster. It was decided to use the proportions that the teacher suggested to us - 5 parts gypsum, 2 parts water, 1 part sand (by weight).
+
+![Screenshot_194](https://github.com/user-attachments/assets/0a5c3b1d-e91f-4df1-9872-7adc7a924feb)
+
+Scales were used to measure the amount of material, gypsum, sand, and water were poured into a plastic container. I had to stir the mixture using improvised materials - a plastic measuring spoon (not in the photo)
+
+![Screenshot_195](https://github.com/user-attachments/assets/c55e7b20-6f0d-436c-bb1f-aeab15d35ca1)
+
+to avoid spilling plaster from the box, it was decided to wrap it with duct tape.
+
+![Screenshot_196](https://github.com/user-attachments/assets/9f293ad5-5d72-4ab2-afc1-bcbaf40db3c4)
+
+for additional sealing, I tried using a plastic bag from under the filament, but it got stuck on the bottom third of the box, so I had to cut that part off. which didn't fit
+
+![Screenshot_197](https://github.com/user-attachments/assets/e81181a5-068a-4755-b2eb-f2b13d2e89f8)
+
+then I added a trash bag.
+
+![Screenshot_198](https://github.com/user-attachments/assets/2af1c94f-d943-466a-a1f9-0ecded9306cf)
+
+![Screenshot_199](https://github.com/user-attachments/assets/24ea2c66-40a9-43e3-b093-387281dee112)
+
+It seemed to me that the figure touches the walls in 2 places, and in order not to spoil the edges of the figure during filling, I laid 2 cut-off pieces from the plastic bag from the filament that I cut earlier.
+
+![Screenshot_200](https://github.com/user-attachments/assets/54ff271e-fdb4-4edb-b688-851fa2e14747)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
