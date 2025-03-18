@@ -141,6 +141,25 @@ It seemed to me that the figure touches the walls in 2 places, and in order not 
 
 ![Screenshot_200](https://github.com/user-attachments/assets/54ff271e-fdb4-4edb-b688-851fa2e14747)
 
+I used a vibrating table to fill the box with plaster. it is necessary for the plaster to be evenly distributed inside the box and along the figure, as well as for air bubbles to escape.
+
+
+
+https://github.com/user-attachments/assets/d1126ce3-a51d-43bc-b578-197e05492ef9
+
+
+
+https://github.com/user-attachments/assets/06c6202f-4100-4860-ba54-c0effa704bc2
+
+it seemed to me that the proportions for making the gypsum mixture that the teacher provided to us were not quite correct: the mixture turns out to be too liquid. this increases fragility and a high risk of blistering. therefore, starting with the next portion of the mixture (it took several of them for such a volume), I mixed the mixture by eye, adding more gypsum to it so that the consistency of the mixture resembled sour cream (as in a dental laboratory in dentistry).
+
+Important notes: for a better filling of the mixture, it is better to pour it over the wall of the box. It is very important to avoid lumps (given the lack of a kneading tool, it was not easy). it also turned out that the tape and bags around the box were not superfluous - the excess plaster poured into the bag, but the space around remained clean.
+
+
+
+
+
+
 
 
 
