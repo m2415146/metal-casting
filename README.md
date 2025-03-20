@@ -177,19 +177,25 @@ Unfortunately, after I removed the box and packages, defects were found - part o
 
 ![Screenshot_65](https://github.com/user-attachments/assets/75ecfbaa-b4ca-4919-8280-5217fc32c7b7)
 
+https://github.com/user-attachments/assets/7749851b-d212-4846-a927-1fbbc0428a09
+
 It should be noted the reason why it will be necessary to cover the cardboard box with plaster, which is immured in it: since we will place the blank in an oven for heating at 500 degrees Celsius to burn out the model from pla, there is a danger of open fire. According to the teacher, the PLA will not burn (I will pay attention to checking the answer to this question later). so I need to cover the cardboard part with plaster to avoid air access during heating in the oven and avoid the appearance of an open fire (smoke detectors are installed in the laboratory and this can lead to a number of problems).
 
 to do this, I also diluted the gypsum mixture to cover these areas.
 
+what I should have done: considering that the areas that need to be covered with plaster are on different sides of the model, I should have applied plaster on one side one at a time, waited for it to harden for at least an hour, then turned the model over to the other side and dealt with the next area.
 
+Why didn't I do that?: it takes too much time. so I took a lot of plaster and decided to put it on all the parts at once. yes, I want to collect all the possible problems that you can commit by repeating this - and maybe it will save you from mistakes.
 
+Now the shape looks like an Easter cake.
 
+![Screenshot_66](https://github.com/user-attachments/assets/28117d56-1c75-4407-9755-e2eda232d072)768910
 
+![Screenshot_67](https://github.com/user-attachments/assets/9166ad66-4a41-4393-835d-5c09c334583a)
 
+![Screenshot_68](https://github.com/user-attachments/assets/18b4aac2-e00e-48b7-950a-b7dc0c80f5a7)
 
-
-
-
+![Screenshot_69](https://github.com/user-attachments/assets/9229cff8-b70b-4396-ae2f-6a201595dabf)
 
 
 
