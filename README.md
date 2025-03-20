@@ -155,6 +155,37 @@ it seemed to me that the proportions for making the gypsum mixture that the teac
 
 Important notes: for a better filling of the mixture, it is better to pour it over the wall of the box. It is very important to avoid lumps (given the lack of a kneading tool, it was not easy). it also turned out that the tape and bags around the box were not superfluous - the excess plaster poured into the bag, but the space around remained clean.
 
+### After 3 days
+
+I came to check the condition of the model. my goal was to check the model and, if everything is in order, then put it in the oven for a day or two to dry the plaster faster and move on to the next stage as soon as possible. I want to speed up, because I already understand that this is a rough draft of the project, which will allow me to better understand the principles of metal casting in order to make it right again.
+
+this is a view of the plaster on top of the box
+
+![Screenshot_63](https://github.com/user-attachments/assets/0e6afdd5-ce68-4e30-a439-622906677cc1)
+
+visually, everything was not bad, so I decided to check how solidified the plaster was (using my fingers)
+
+https://github.com/user-attachments/assets/c37f7942-931a-43d6-a311-2a2630fbc6ad
+
+The plaster was able to hold its shape to the touch, but it was quite wet. so the idea of heating it up for additional drying seems more and more relevant. I was somewhat surprised that the plaster had not dried in 3 days. I compare this plaster with dental casts, which, depending on the type, would definitely be ready for use in 2-3 hours. 
+
+The next step is to remove the cardboard box and bags to prepare the model for moving to the oven. I did this step with a stationery knife and ordinary scissors.
+
+![Screenshot_64](https://github.com/user-attachments/assets/3285aecd-11fc-4195-936c-a2035a66a929)
+
+Unfortunately, after I removed the box and packages, defects were found - part of the box was sealed in plaster and part of the model was not well filled with plaster. in order not to damage the model when trying to remove the plaster and not waste time on re-pouring, I decided to simply add more plaster to these areas - since this is a training (rough) project, some defects are quite acceptable.
+
+![Screenshot_65](https://github.com/user-attachments/assets/75ecfbaa-b4ca-4919-8280-5217fc32c7b7)
+
+It should be noted the reason why it will be necessary to cover the cardboard box with plaster, which is immured in it: since we will place the blank in an oven for heating at 500 degrees Celsius to burn out the model from pla, there is a danger of open fire. According to the teacher, the PLA will not burn (I will pay attention to checking the answer to this question later). so I need to cover the cardboard part with plaster to avoid air access during heating in the oven and avoid the appearance of an open fire (smoke detectors are installed in the laboratory and this can lead to a number of problems).
+
+to do this, I also diluted the gypsum mixture to cover these areas.
+
+
+
+
+
+
 
 
 
