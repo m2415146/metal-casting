@@ -201,6 +201,51 @@ Now the shape looks like an Easter cake.
 
 it looks pretty good
 
+![image](https://github.com/user-attachments/assets/108850e6-0ba5-4afc-a28d-59590fa07dca)
+
+Since the plaster was already dry, I decided to burn the PLA out of the mold using an oven
+
+![image](https://github.com/user-attachments/assets/1291b45f-adc5-44ee-bf76-a2032e0470cb)
+
+The temperature is 500 degrees Celsius. Exposure time is 1 hour
+
+Moving the model to the oven
+
+(there will be a video soon)
+
+Closed oven
+
+![image](https://github.com/user-attachments/assets/00adbd93-d6bc-4179-9b87-41809f458931)
+
+### After 6 days (total 16)
+
+The burning in the furnace took place within 1 hour. Then the oven was turned off. It seems to have remained closed for 6 days. I can't be completely sure, because other people have been coming into the lab all this time. But since the model remained in its place in the oven, I can assume
+
+The process of removing the mold from the oven
+
+(there will be a video soon)
+
+The form looks good enough. There are several shallow cracks and one of medium (?) depth. The teacher said that there was no problem, everything turned out fine and you can fill it with metal.
+
+![image](https://github.com/user-attachments/assets/0757b595-63e7-4bf8-a175-74115b07bd37)
+
+![image](https://github.com/user-attachments/assets/56c5d67e-f3ca-499c-a4ae-31de58edd217)
+
+![image](https://github.com/user-attachments/assets/f512d9df-2a20-4041-915f-ae8e99648d8b)
+
+![image](https://github.com/user-attachments/assets/fee5493a-96e5-4284-801a-828a2430366c)
+
+![image](https://github.com/user-attachments/assets/2a8687b8-38f5-48ed-9db8-ef7427f932ee)
+
+![image](https://github.com/user-attachments/assets/fda578f4-887d-4a5f-a2cb-d8cd374979ca)
+
+Using my fingers, I checked how smooth the surface of the plaster was in the area of the injection channels. The surface was smooth. Considering that I selected the consistency and proportions of the gypsum mixture "by eye", based on the experience of manufacturing gypsum dental dental models, it seems successful on the outer surface of the mold. After pouring the metal, I will be able to understand how well it turned out to reflect the surface of the model itself with plaster. We agreed with the teacher to pour aluminum into the mold in a couple of days.
+
+
+
+
+
+
 
 
 
