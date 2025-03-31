@@ -211,7 +211,7 @@ The temperature is 500 degrees Celsius. Exposure time is 1 hour
 
 Moving the model to the oven
 
-(there will be a video soon)
+https://github.com/user-attachments/assets/60bc4292-8c83-4c9e-a7c1-134b71598619
 
 Closed oven
 
@@ -223,7 +223,7 @@ The burning in the furnace took place within 1 hour. Then the oven was turned of
 
 The process of removing the mold from the oven
 
-(there will be a video soon)
+https://github.com/user-attachments/assets/48e1d00c-1b3a-47cc-9139-0a408ef01f31
 
 The form looks good enough. There are several shallow cracks and one of medium (?) depth. The teacher said that there was no problem, everything turned out fine and you can fill it with metal.
 
