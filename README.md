@@ -197,6 +197,10 @@ Now the shape looks like an Easter cake.
 
 ![Screenshot_69](https://github.com/user-attachments/assets/9229cff8-b70b-4396-ae2f-6a201595dabf)
 
+### After 7 days (total 10)
+
+it looks pretty good
+
 
 
 
