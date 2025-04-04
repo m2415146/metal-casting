@@ -309,6 +309,68 @@ According to the plan, I want to open the form the next day and see what happene
 
 ### After 1 day (total 24)
 
+here is a view of the mold after casting the metal after 24 hours. cracks are visible. Several parts of the plaster fell off while I was putting the mold on the table.
+
+![Screenshot_385](https://github.com/user-attachments/assets/0a102869-3fc5-42af-b88d-283486f0c8e2)
+
+![Screenshot_386](https://github.com/user-attachments/assets/809a3de2-f2fb-4d14-8692-95cae7310ad8)
+
+I used a hammer to carefully separate the plaster from the metal.
+
+![Screenshot_387](https://github.com/user-attachments/assets/2aaf8ca5-4a27-4b98-b4e8-c906d1128e99)
+
+The mold itself was placed in a tight garbage bag to less pollute the workplace.
+
+![Screenshot_388](https://github.com/user-attachments/assets/a6f38472-c013-4b3b-af7e-1cd70d6eb04e)
+
+the gypsum removal process
+
+https://github.com/user-attachments/assets/78591e21-a5a7-4353-9eb9-a003ae3f9240
+
+the process of plaster removal (imitation of a first-person view)
+
+https://github.com/user-attachments/assets/4e9984ec-3f19-4c72-bcb7-4b8804c177e6
+
+the type of mold at the stage of gypsum removal. pay attention to the cracks. I noticed that it is better to knock with a hammer so that the cracks of the frame open. to do this, there is no need to knock on them all at once.
+
+![photo_2025-04-04_18-51-09](https://github.com/user-attachments/assets/c45e3583-bf2a-4a4f-8ebf-0c85db32d8a6)
+
+It's almost done
+
+https://github.com/user-attachments/assets/9198aa7b-8d85-4c03-87e4-b5ad5a7f8918
+
+done
+
+![photo_2025-04-04_18-52-35](https://github.com/user-attachments/assets/6c746589-c936-4c67-8d5d-ba7dd9c70fbf)
+
+Overall, we managed to display the form well. However, not all the details turned out well. In the following pictures I will show the defects on the model.
+
+![photo_2025-04-04_18-53-42](https://github.com/user-attachments/assets/8f094e5b-1a8f-49d2-88c9-33465a02a786)
+
+![photo_2025-04-04_18-53-45](https://github.com/user-attachments/assets/e7634508-b66e-42ea-b89c-b1a77e608bd3)
+
+![photo_2025-04-04_18-53-48](https://github.com/user-attachments/assets/670a5469-8a2f-464b-adb1-5ed267dcfef4)
+
+![photo_2025-04-04_18-53-50](https://github.com/user-attachments/assets/6c6ff76b-80bf-43e5-828c-1a6165ec6f0e)
+
+video with the finished model
+
+![photo_2025-04-04_18-52-35](https://github.com/user-attachments/assets/e4bf3c86-800f-486d-831c-0fef5185a91b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
